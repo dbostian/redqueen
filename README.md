@@ -7,6 +7,12 @@
 
 ![example](https://i.imgur.com/M3hJ0Lf.jpg)
 
+## Project Structure
+/3d_files - STL and STEP files for CNC + 3d Printing
+
+/qmk - Firmware folder for QMK
+
+/raw_data - Data from [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/) and [kbfirmware.com](https://kbfirmware.com/)
 
 ## Components
 - [ ] 1x Left Plate (CNC or Print)
