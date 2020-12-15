@@ -3,6 +3,10 @@
 
 ![example](https://i.imgur.com/ZePxn7R.jpg)
 
+![example](https://i.imgur.com/GLbhAl7.jpg)
+
+![example](https://i.imgur.com/M3hJ0Lf.jpg)
+
 
 ## Components
 - [ ] 1x Left Plate (CNC or Print)
@@ -17,19 +21,19 @@
 
 ## Hardware
 - [ ] 64x Switches (cherry compatable)
-- [ ] 64x 1N4148 diodes
+- [ ] 64x 1N4148 Diodes
 - [ ] 2x Pro Micro
 - [ ] 2x TRRS Jack
 - [ ] 5x 2u Costar Stabilizers
 - [ ] 3x Resistors (2x 4.7k ohm for I2C pullups, 1x 150 ohm for led)
 - [ ] 64x Amoeba PCB (optional)
-- [ ] 1x Led (caps lock, optional)
+- [ ] 1x LED (caps lock, optional)
 - [ ] 21x M3 x 8mm Countersunk Machine Screw
 - [ ] 8x M3x16 Thumbscrew
-- [ ] 8x M3 nut
-- [ ] 8x 6.5mm ID Rubber Cap
+- [ ] 8x M3 Nut
+- [ ] 8x 6.5mm ID Rubber Cap (feet for tenting legs)
 - [ ] 8x M3 Washer
-- [ ] 8x Rubber foot (optional)
+- [ ] 8x Adhesive Rubber Foot (optional)
 - [ ] Wire
 
 ## Tools / Misc
@@ -70,6 +74,8 @@ I used Amoeba single-key PCBS to make wiring easier/neater.
 
 Insert the TRRS jack into the MCU tray before wiring. Remember to flush trim the leads on the bottom of the Pro Micro before sliding it into the holder.
 
+![example](https://i.imgur.com/s3WTTxk.jpg)
+
 ## Assembly
 Tap appropriate holes in the shells and MCU trays to M3. Insert M3 nuts into the corners of each shell, and press all the way down to seat. Attach the MCU tray along with the I/O Shield to the back of the shell. Arrange wires neatly, and attach the plate to shell with M3x8mm countersunk screws - use caution to not overtighten and strip the threads in the printed shell.
 
@@ -78,5 +84,5 @@ The inserts for the tenting legs can be rotated to six major positions, each wit
 ![example](https://i.imgur.com/VsJujLC.jpg)
 
 ## Firmware
-I used QMK - there's an included keyboards folder for compiling/flashing your own keyboard. 
+I used [QMK firmware](https://qmk.fm/) - there's an included keyboards folder for compiling/flashing your own keyboard. 
 
