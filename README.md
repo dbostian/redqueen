@@ -1,7 +1,7 @@
 # Red Queen
 ## Alice-Inspired Split Mechanical Keyboard
 
-![example](https://i.imgur.com/ZePxn7R.jpg)
+![example](https://i.imgur.com/CcRmm1t.jpg)
 
 ![example](https://i.imgur.com/GLbhAl7.jpg)
 
