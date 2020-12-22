@@ -1,9 +1,9 @@
 # Red Queen
-## Alice-Inspired Split Mechanical Keyboard
+## Split Mechanical Keyboard inspired by TGR's Alice
+
+![example](https://i.imgur.com/68itOSp.jpg)
 
 ![example](https://i.imgur.com/CcRmm1t.jpg)
-
-![example](https://i.imgur.com/GLbhAl7.jpg)
 
 ![example](https://i.imgur.com/M3hJ0Lf.jpg)
 
