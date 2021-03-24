@@ -15,7 +15,7 @@
 /raw_data - Data from [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/) and [kbfirmware.com](https://kbfirmware.com/)
 
 ## Components
-- [ ] 1x Left Plate (CNC or Print)
+- [ ] 1x Left Plate (CNC or Print *see plate notes below*)
 - [ ] 1x Right Plate (CNC or Print)
 - [ ] 1x Left Shell (Print)
 - [ ] 1x Right Shell (Print)
@@ -51,10 +51,12 @@
 - [ ] Hex Drivers
 - [ ] M3 Tap
 
-## CNC Notes
-The switch plates are routed out of 1/16" (1.58 mm) 6061 aluminum, using a 1/8" (3.175mm) end mill. STEP files are included for the plates in addition to STLs. These parts were designed around a hobbyist cnc router, hence the dogboned corners in the switch holes, and the rounded corners for the stabilizers. I imagine these could be reasonably 3d printed. 
+## Plate Notes
+The switch plates are routed out of 1/16" (1.58 mm) 6061 aluminum, using a 1/8" (3.175mm) end mill. STEP files are included for the plates in addition to STLs. These parts were designed around a hobbyist cnc router, hence the dogboned corners in the switch holes, and the rounded corners for the stabilizers.
 
 ![example](https://i.imgur.com/52ofGFi.jpg)
+
+If you are 3D printing the plates, use the included **left_plate_v2.stl** and **right_plate_v2.stl** files. These are 3mm thick around the switch holes for stiffness, but undercut at 45 degrees so that you can still snap a switch into the hole.
 
 ## Printing Notes
 Print at 0.2mm layer height. To recreate the embossed Red Queen in the bottom of the left shell, use the color changing feature in your slicing software. Print one layer of black, then change filament for one layer of red, and then change back to print the the remainder in black. I did this for both halves.
