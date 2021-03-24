@@ -58,6 +58,8 @@ The switch plates are routed out of 1/16" (1.58 mm) 6061 aluminum, using a 1/8" 
 
 If you are 3D printing the plates, use the included **left_plate_v2.stl** and **right_plate_v2.stl** files. These are 3mm thick around the switch holes for stiffness, but undercut at 45 degrees so that you can still snap a switch into the hole.
 
+![example](https://i.imgur.com/CaU0ksF.jpg)
+
 ## Printing Notes
 Print at 0.2mm layer height. To recreate the embossed Red Queen in the bottom of the left shell, use the color changing feature in your slicing software. Print one layer of black, then change filament for one layer of red, and then change back to print the the remainder in black. I did this for both halves.
 
